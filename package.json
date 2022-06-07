@@ -1,0 +1,22 @@
+{
+  "name": "puppeteerperf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chrome-launcher": "^0.15.0",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "lighthouse": "^9.6.1",
+    "mocha": "^10.0.0",
+    "puppeteer": "^14.1.1",
+    "request": "^2.88.2",
+    "util": "^0.12.4"
+  }
+}
